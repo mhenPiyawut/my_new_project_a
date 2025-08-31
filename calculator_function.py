@@ -6,4 +6,4 @@ a = 10
 b = 20
 c = 15
 print(add(a, b))
-print(multiply(a, c))
+print(multiply(b, c))
